@@ -4,4 +4,4 @@ transformers
 numpy
 Pillow
 scikit-learn
-pandass
+pandas
